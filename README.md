@@ -9,7 +9,7 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 - 📚 Favorite Books: Circe, The Secret History, The Hitchhiker's Guide to the Galaxy
 
 <h1>Social media profiles</h1>
-<a href="">Portfolio</a>
+<a href="http://teresa-salazar.surge.sh/">Portfolio</a>
 <br><a href="https://www.linkedin.com/in/seleccionit/">LinkedIn</a>
 <br><a href="http://twitter.com/tsalazargr">Twitter</a>
 <br><a href="https://tsalazargr.medium.com/">Medium</a>
