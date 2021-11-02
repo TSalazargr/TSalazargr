@@ -17,8 +17,8 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 
 <h1>🎤Talks, Seminars and Conferences🎤</h1>
 - 2021: La Transformación Digital en Recursos Humanos - Universidad Isabel I 
-- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
-- 2019: <a href="https://www.nebrija.com/medios/informatica/2019/02/04/teresa-salazar-de-open-sistemas-nos-acerco-el-lado-oscuro-de-la-digitalizacion-en-recursos-humanos/">El Lado Oscuro de la Digitalización en Recursos Humanos</a> - Universidad Nebrija
+<br>- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
+<br>- 2019: <a href="https://www.nebrija.com/medios/informatica/2019/02/04/teresa-salazar-de-open-sistemas-nos-acerco-el-lado-oscuro-de-la-digitalizacion-en-recursos-humanos/">El Lado Oscuro de la Digitalización en Recursos Humanos</a> - Universidad Nebrija
 
 <!--
 **TSalazargr/TSalazargr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
