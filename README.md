@@ -7,6 +7,7 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 - ⚡ Fun fact: I built my first website in the 90s. It was a Dragon Ball fansite! 
 - 🎬 Favorite movies: Dogma, Clue, The Princess Bride, The Social Network
 - 📚 Favorite Books: Discworld, Circe, The Secret History, The Hitchhiker's Guide to the Galaxy
+- 🏦 Working at: @ParabolInc
 
 <h1>💻Social media profiles💻</h1>
 <a href="http://teresa-salazar.surge.sh/">Portfolio</a>
