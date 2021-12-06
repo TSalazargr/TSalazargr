@@ -17,8 +17,8 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
 
 <h1>🎤Talks, Seminars and Conferences🎤</h1>
-- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
-- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
+<br>- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
+<br>- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
 <br>- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
 <br>- 2019: <a href="https://www.nebrija.com/medios/informatica/2019/02/04/teresa-salazar-de-open-sistemas-nos-acerco-el-lado-oscuro-de-la-digitalizacion-en-recursos-humanos/">El Lado Oscuro de la Digitalización en Recursos Humanos</a> - Universidad Nebrija
 
