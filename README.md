@@ -15,6 +15,7 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 <br><a href="http://twitter.com/tsalazargr">Twitter</a>
 <br><a href="https://tsalazargr.medium.com/">Medium</a>
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
+<br><a href="https://linktr.ee/tsalazargr">Linktree</a>
 
 <h1>🎤Talks, Seminars and Conferences🎤</h1>
 <br>- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
