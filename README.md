@@ -10,8 +10,8 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 - 🏦 Working at: <a href="https://github.com/ParabolInc">@ParabolInc</a>
 
 <h1>💻Social media profiles💻</h1>
-<a href="http://teresa-salazar.surge.sh/">Portfolio</a>
-<br><a href="https://www.linkedin.com/in/seleccionit/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
+<br><a href="http://teresa-salazar.surge.sh/">Portfolio</a>
 <br><a href="http://twitter.com/tsalazargr">Twitter</a>
 <br><a href="https://tsalazargr.medium.com/">Medium</a>
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
