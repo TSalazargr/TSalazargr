@@ -1,5 +1,7 @@
 <h1>🤗Who am I?🤗</H1>
 
+![](https://komarev.com/ghpvc/?username=TSalazargr)
+
 Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, roleplaying, escape rooms, and technology.
 
 - 📫 How to reach me: Through any of my social media profiles. My DMs are open!
@@ -37,5 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-![](https://komarev.com/ghpvc/?username=TSalazargr)
