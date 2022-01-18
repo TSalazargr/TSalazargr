@@ -1,8 +1,8 @@
 <h1>🤗Who am I?🤗</H1>
 
+Teresa Salazar García-Rosales is a tech recruiter.
 
-
-Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, roleplaying, escape rooms, and technology.
+She has a passion for karaoke, roleplaying, escape rooms, and technology.
 
 <h2>👩🏻About me👩🏻</h2>
 
