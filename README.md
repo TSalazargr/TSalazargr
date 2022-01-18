@@ -11,7 +11,7 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 - 📚 Favorite Books: Discworld, Circe, The Secret History, The Hitchhiker's Guide to the Galaxy
 - 🏦 Working at: <a href="https://github.com/ParabolInc">@ParabolInc</a>
 
-<h1>💻Social media profiles💻</h1>
+<h2>💻Social media profiles💻</h2>
 <a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
 <br><a href="http://teresa-salazar.surge.sh/">Portfolio</a>
 <br><a href="http://twitter.com/tsalazargr">Twitter</a>
@@ -19,7 +19,7 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
 <br><a href="https://linktr.ee/tsalazargr">Linktree</a>
 
-<h1>🎤Talks, Seminars and Conferences🎤</h1>
+<h2>🎤Talks, Seminars and Conferences🎤</h2>
 <br>- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
 <br>- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
 <br>- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
