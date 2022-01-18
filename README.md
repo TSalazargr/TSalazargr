@@ -1,8 +1,10 @@
 <h1>🤗Who am I?🤗</H1>
 
-![](https://komarev.com/ghpvc/?username=TSalazargr)
+
 
 Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, roleplaying, escape rooms, and technology.
+
+<h2>👩🏻About me👩🏻</b2>
 
 - 📫 How to reach me: Through any of my social media profiles. My DMs are open!
 - ⚧️ Pronouns: she/her
@@ -24,6 +26,8 @@ Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, r
 <br>- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
 <br>- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
 <br>- 2019: <a href="https://www.nebrija.com/medios/informatica/2019/02/04/teresa-salazar-de-open-sistemas-nos-acerco-el-lado-oscuro-de-la-digitalizacion-en-recursos-humanos/">El Lado Oscuro de la Digitalización en Recursos Humanos</a> - Universidad Nebrija
+
+![](https://komarev.com/ghpvc/?username=TSalazargr)
 
 <!--
 **TSalazargr/TSalazargr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
