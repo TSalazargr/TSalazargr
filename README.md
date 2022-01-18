@@ -4,7 +4,7 @@
 
 Teresa Salazar García-Rosales is a tech recruiter with a passion for karaoke, roleplaying, escape rooms, and technology.
 
-<h2>👩🏻About me👩🏻</b2>
+<h2>👩🏻About me👩🏻</h2>
 
 - 📫 How to reach me: Through any of my social media profiles. My DMs are open!
 - ⚧️ Pronouns: she/her
