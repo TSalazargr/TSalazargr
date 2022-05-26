@@ -21,7 +21,9 @@ She has a passion for karaoke, roleplaying, escape rooms, and technology.
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
 <br><a href="https://linktr.ee/tsalazargr">Linktree</a>
 
-<h2>🎤Talks, Seminars and Conferences🎤</h2>
+<h2>🎤Talks, Seminars, Articles and Conferences🎤</h2>
+<br>- 2022: <a href="https://www.parabol.co/blog/how-to-prepare-for-a-scrum-master-interview/">How to Prepare for a Scrum Master Interview: Expert Recruiter Q&A</a>
+<br>- 2022: <a href="https://www.parabol.co/blog/296-parabol-at-the-big-easy/">Parabol at the Big Easy</a>
 <br>- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
 <br>- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
 <br>- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
