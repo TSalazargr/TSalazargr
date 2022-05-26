@@ -23,11 +23,11 @@ She has a passion for karaoke, roleplaying, escape rooms, and technology.
 
 <h2>🎤Talks, Seminars, Articles and Conferences🎤</h2>
 - 2022: <a href="https://www.parabol.co/blog/how-to-prepare-for-a-scrum-master-interview/">How to Prepare for a Scrum Master Interview: Expert Recruiter Q&A</a>
-<br>- 2022: <a href="https://www.parabol.co/blog/296-parabol-at-the-big-easy/">Parabol at the Big Easy</a>
-<br>- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
-<br>- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
-<br>- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
-<br>- 2019: <a href="https://www.nebrija.com/medios/informatica/2019/02/04/teresa-salazar-de-open-sistemas-nos-acerco-el-lado-oscuro-de-la-digitalizacion-en-recursos-humanos/">El Lado Oscuro de la Digitalización en Recursos Humanos</a> - Universidad Nebrija
+- 2022: <a href="https://www.parabol.co/blog/296-parabol-at-the-big-easy/">Parabol at the Big Easy</a>
+- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
+- 2021: <a href="https://www.ui1.es/sala-de-prensa/webinar-en-la-universidad-isabel-i-sobre-la-transformacion-digital-en-opensistemas">La Transformación Digital en Recursos Humanos</a> - Universidad Isabel I 
+- 2019: <a href="https://www.youtube.com/watch?v=Z7gQGcVtBiM&feature=youtu.be">El Lado Oscuro del Scraping en Recruiting</a> - PyConEs19
+- 2019: <a href="https://www.nebrija.com/medios/informatica/2019/02/04/teresa-salazar-de-open-sistemas-nos-acerco-el-lado-oscuro-de-la-digitalizacion-en-recursos-humanos/">El Lado Oscuro de la Digitalización en Recursos Humanos</a> - Universidad Nebrija
 
 ![](https://komarev.com/ghpvc/?username=TSalazargr)
 
