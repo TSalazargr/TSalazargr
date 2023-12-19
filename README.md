@@ -13,7 +13,7 @@ I'm currently learning Python.
 - ⚡ Fun fact: I built my first website in the 90s. It was a Dragon Ball fansite! 
 - 🎬 Favorite movies: Dogma, Clue, The Princess Bride, The Social Network
 - 📚 Favorite Books: Discworld, Circe, The Secret History, The Hitchhiker's Guide to the Galaxy
-- 🏦 Working at: <a href=https://clue.aero/">Clue Technologies</a>
+- 🏦 Working at: <a href="https://clue.aero/">Clue Technologies</a>
 
 <h2>💻Social media profiles💻</h2>
 <a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
