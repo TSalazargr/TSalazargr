@@ -1,8 +1,10 @@
 <h1>🤗Who am I?🤗</H1>
 
-Teresa Salazar García-Rosales is a tech recruiter.
+Teresa Salazar García-Rosales is a tech recruiter and talent acquisition specialist.
 
 She has a passion for karaoke, roleplaying, escape rooms, and technology.
+
+I'm currently learning Python.
 
 <h2>👩🏻About me👩🏻</h2>
 
@@ -11,7 +13,7 @@ She has a passion for karaoke, roleplaying, escape rooms, and technology.
 - ⚡ Fun fact: I built my first website in the 90s. It was a Dragon Ball fansite! 
 - 🎬 Favorite movies: Dogma, Clue, The Princess Bride, The Social Network
 - 📚 Favorite Books: Discworld, Circe, The Secret History, The Hitchhiker's Guide to the Galaxy
-- 🏦 Working at: <a href="https://github.com/ParabolInc">@ParabolInc</a>
+- 🏦 Working at: <a href=https://clue.aero/">Clue Technologies</a>
 
 <h2>💻Social media profiles💻</h2>
 <a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
