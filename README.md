@@ -25,7 +25,9 @@ I'm currently learning Python.
 <br><a href="https://linktr.ee/tsalazargr">Linktree</a>
 
 <h2>🎤Talks, Seminars, Articles and Conferences🎤</h2>
-- 2022: <a href="https://www.parabol.co/blog/how-to-prepare-for-a-scrum-master-interview/">How to Prepare for a Scrum Master Interview: Expert Recruiter Q&A</a>
+<br>- 2023: <a href="https://www.linkedin.com/pulse/335-gift-feedback-parabol-parabol/?trackingId=b%2BQE7ga4SL6s9z%2Fp2DzO8g%3D%3D">The Gift of Feedback at Parabol</a>
+<br>- 2023: <a href="https://www.linkedin.com/pulse/347-supporting-working-parents-parabol/?trackingId=Rgir1VySQHyABUa7V2CI2w%3D%3D">Supporting Working Parents</a>
+<br>- 2022: <a href="https://www.parabol.co/blog/how-to-prepare-for-a-scrum-master-interview/">How to Prepare for a Scrum Master Interview: Expert Recruiter Q&A</a>
 <br>- 2022: <a href="https://www.parabol.co/blog/296-parabol-at-the-big-easy/">Parabol at the Big Easy</a>
 <br>- 2021: <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=8420097">Las voces que configuran el yo homosexual: un estudio de caso de narrativas autobiográficas intergeneracionales.</a>
 <br>- 2021: Podcast En Pixeles: <a href="https://podcasts.apple.com/us/podcast/mitos-en-los-procesos-de-selecci%C3%B3n-invitada-tsalazargr/id1595085432?i=1000544104062">Mitos en los procesos de selección</a>
