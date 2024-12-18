@@ -17,9 +17,7 @@ I'm currently learning Python.
 
 <h2>💻Social media profiles💻</h2>
 <a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
-<br><a href="https://tech.lgbt/@tsalazargr">Mastodon</a>
 <br><a href="http://teresa-salazar.surge.sh/">Portfolio</a>
-<br><a href="http://twitter.com/tsalazargr">Twitter</a>
 <br><a href="https://tsalazargr.medium.com/">Medium</a>
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
 <br><a href="https://linktr.ee/tsalazargr">Linktree</a>
