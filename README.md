@@ -4,7 +4,7 @@ Teresa Salazar García-Rosales is a tech recruiter and talent acquisition specia
 
 She has a passion for karaoke, roleplaying, escape rooms, and technology.
 
-I'm currently learning Python.
+She is currently learning Python.
 
 <h2>👩🏻About me👩🏻</h2>
 
