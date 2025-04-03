@@ -11,9 +11,9 @@ I'm currently learning Python.
 - 📫 How to reach me: Through any of my social media profiles. My DMs are open!
 - ⚧️ Pronouns: she/her
 - ⚡ Fun fact: I built my first website in the 90s. It was a Dragon Ball fansite! 
-- 🎬 Favorite movies: Dogma, Clue, The Princess Bride, The Social Network
-- 📚 Favorite Books: Discworld, Circe, The Secret History, The Hitchhiker's Guide to the Galaxy
-- 🏦 Working at: <a href="https://clue.aero/">Clue Technologies</a>
+- 🎬 Favorite movies: Dogma, Clue, The Princess Bride
+- 📚 Favorite Books: Discworld, The Hitchhiker's Guide to the Galaxy
+- 🏦 Working at: [https://clue.aero/](ESW)
 
 <h2>💻Social media profiles💻</h2>
 <a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
