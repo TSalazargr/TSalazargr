@@ -1,28 +1,21 @@
-<h1>🤗Who am I?🤗</H1>
-
-Teresa Salazar García-Rosales is a tech recruiter and talent acquisition specialist.
+Teresa Salazar García-Rosales is a senior talent acquisition specialist.
 
 She has a passion for karaoke, roleplaying, escape rooms, and technology.
-
-I'm currently learning Python.
 
 <h2>👩🏻About me👩🏻</h2>
 
 - 📫 How to reach me: Through any of my social media profiles. My DMs are open!
 - ⚧️ Pronouns: she/her
 - ⚡ Fun fact: I built my first website in the 90s. It was a Dragon Ball fansite! 
-- 🎬 Favorite movies: Dogma, Clue, The Princess Bride
-- 📚 Favorite Books: Discworld, The Hitchhiker's Guide to the Galaxy
-- 🏦 Working at: [https://clue.aero/](ESW)
 
 <h2>💻Social media profiles💻</h2>
 <a href="https://www.linkedin.com/in/seleccionit/?locale=en_US">LinkedIn</a>
-<br><a href="http://teresa-salazar.surge.sh/">Portfolio</a>
 <br><a href="https://tsalazargr.medium.com/">Medium</a>
 <br><a href="https://tsalazargr.carrd.co/">Carrd</a>
 <br><a href="https://linktr.ee/tsalazargr">Linktree</a>
 
 <h2>🎤Talks, Seminars, Articles and Conferences🎤</h2>
+- 2026: <a href="https://www.youtube.com/watch?v=9ZwOXdbpuZc">No eres tú, es la economía: burbujas, bootcamps y burnout</a>
 - 2023: <a href="https://www.linkedin.com/pulse/335-gift-feedback-parabol-parabol/?trackingId=b%2BQE7ga4SL6s9z%2Fp2DzO8g%3D%3D">The Gift of Feedback at Parabol</a>
 <br>- 2023: <a href="https://www.linkedin.com/pulse/347-supporting-working-parents-parabol/?trackingId=Rgir1VySQHyABUa7V2CI2w%3D%3D">Supporting Working Parents</a>
 <br>- 2022: <a href="https://www.parabol.co/blog/how-to-prepare-for-a-scrum-master-interview/">How to Prepare for a Scrum Master Interview: Expert Recruiter Q&A</a>
