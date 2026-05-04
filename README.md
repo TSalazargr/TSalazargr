@@ -16,6 +16,7 @@ She has a passion for karaoke, roleplaying, escape rooms, and technology.
 
 <h2>🎤Talks, Seminars, Articles and Conferences🎤</h2>
 - 2026: <a href="https://www.youtube.com/watch?v=9ZwOXdbpuZc">T3chfest: No eres tú, es la economía: burbujas, bootcamps y burnout</a>
+<br>- 2025: <a href="https://tsalazargr.medium.com/the-job-posting-scam-nobody-talks-about-hint-its-3d62508f074f">The Job Posting Scam Nobody Talks About (Hint: It’s not AI)</a>
 <br>- 2023: <a href="https://www.linkedin.com/pulse/335-gift-feedback-parabol-parabol/?trackingId=b%2BQE7ga4SL6s9z%2Fp2DzO8g%3D%3D">The Gift of Feedback at Parabol</a>
 <br>- 2023: <a href="https://www.linkedin.com/pulse/347-supporting-working-parents-parabol/?trackingId=Rgir1VySQHyABUa7V2CI2w%3D%3D">Supporting Working Parents</a>
 <br>- 2022: <a href="https://www.parabol.co/blog/how-to-prepare-for-a-scrum-master-interview/">How to Prepare for a Scrum Master Interview: Expert Recruiter Q&A</a>
